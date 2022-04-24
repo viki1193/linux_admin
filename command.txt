@@ -3,3 +3,8 @@ pwd
 uname
 mkdir
 
+whoami
+rmdir
+mkfs
+lsblk
+
