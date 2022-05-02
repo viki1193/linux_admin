@@ -1,8 +1,5 @@
 ls 
 pwd
-uname
-mkdir
-
 whoami
 rmdir
 mkfs
@@ -10,5 +7,4 @@ lsblk
 
 
 
-ngrok config add-authtoken 28cHoM5LMKhm8XiJibZQXa73YnJ_pfvBfiVP414yHmtzvohT
 
